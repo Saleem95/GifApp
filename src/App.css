@@ -1,0 +1,101 @@
+.header{
+    text-align: center;
+    color: rgb(88, 88, 241);
+     width: 100%;
+}
+.main{
+    background-color: rgb(184, 217, 245);
+}
+.form{
+    background-color: rgb(157, 236, 236);
+    padding: 25px;
+}
+
+.gif{
+    background-color: rgb(242, 91, 91);
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+.d{
+    text-align: end;
+}
+.gifbtn{
+   border-radius: 15px;
+   margin: 10px;
+   background-color: rgb(220, 104, 187);
+}
+.postbtn{
+    background-color: rgb(72, 72, 228);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+
+.post{
+    margin: 30px;
+    padding: 20px;
+    border: 2px solid rgb(165, 165, 169);
+    background-color: rgb(247, 245, 249);
+    border-radius: 5px;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+.postdiv{
+   text-align: end;
+}
+.btn1{
+    border-radius: 10px;
+    justify-content: end;
+   background-color: rgb(244, 132, 126);
+}
+.btn2{
+    margin: 5px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: rgb(132, 164, 164);
+}
+.sp{
+   color: blue;
+   margin-left: 10px;
+}
+
+.ol{
+    width: 50%;
+}
+.ginp{
+    width: 95%;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+.popup{
+    position: fixed;
+    text-align: left;
+    height: 100%;
+    width: 100%;
+    /* margin-top: 100px; */
+}
+.popup-in{
+    position: relative;
+    text-align: end;
+    height: 300px;
+    width: 350px;
+    background-color: rgb(139, 125, 149);
+    border-radius:10px;
+}
+.popup-in{
+    position: absolute;
+    
+}
+.child{
+    text-align: left;
+    width: 100%;
+}
+.b{
+    border-radius: 10px;
+    margin: 5px;
+    background-color: rgb(235, 117, 117);
+}
